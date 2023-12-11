@@ -6,3 +6,16 @@ Due to climate change we are seeing a lot of divergence from non-fossil-fuel ene
 Renewable energies have much more popularity among the public, yet some of the most popular come with limitations: solar and wind power are both excellent energy sources but require sun and wind to maximise their wattage. 
 
 The end result of this project will be an energy production predictor that will determine current potential GWh production against historical usage per nation. This will then be displayed as a dashboard.
+![image](https://github.com/Alexa-F-Ward/DE_Renewables/assets/123748302/fed99cc8-37b6-452d-a9f3-b60d4c7f1d78)
+
+# Data Visualisation
+Coming Soon
+
+# Data Architecture
+
+# Prerequisites
+
+# Lessons Learned
+
+# Contact
+You can find me on LinkedIn, or here.
