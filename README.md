@@ -8,10 +8,14 @@ Renewable energies have much more popularity among the public, yet some of the m
 The end result of this project will be an energy production predictor that will determine current potential GWh production against historical usage per nation. This will then be displayed as a dashboard.
 ![image](https://github.com/Alexa-F-Ward/DE_Renewables/assets/123748302/fed99cc8-37b6-452d-a9f3-b60d4c7f1d78)
 
-# Data Visualisation
-Coming Soon
+# Data Sources
+[Open Power System Data](https://data.open-power-system-data.org/)
+[US - NREL](https://www.nrel.gov/grid/solar-power-data.html)
 
 # Data Architecture
+
+# Data Visualisation
+Coming Soon
 
 # Prerequisites
 
